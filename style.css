@@ -7,12 +7,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 12px 28px;
-    margin-right: 50px;
-    width: 104px;
-    height: 43px;
-    left: 1201px;
-    top: 25px;
+    padding: 8px 28px;
     background: #21B573;
     border-radius: 33px;
     color: white;
@@ -39,7 +34,7 @@
 }
 
 .second-section{
-    margin-top: 20px;
+    margin-top: 0px;
     
 }
 .schedule{
@@ -60,7 +55,7 @@
 }
 
 .first-write{
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .box{
@@ -130,7 +125,7 @@
     margin-bottom: 20px;
 }
 .third-section{
-    margin-top: 80px;
+    margin-top: 70px;
 }
 .online-write{
     font-weight: bold;
@@ -156,6 +151,7 @@
 }
 .heading{
     font-weight: 700;
+    line-height: 40px;
 }
 .copyright-text{
     margin-top: 60px;
@@ -171,17 +167,18 @@
 .ch{
     height: 60px;
 }
-.man-section{
-    background-color: aqua;
-}
+
 .first-write{
     padding: 20px;
 }
 .man-write{
-    padding: 20px;
+    padding: 30px;
 }
 .for-p{
     margin-top: 60px;
+}
+.for-p2{
+    margin-top: 68px;
 }
 
 
