@@ -1,5 +1,7 @@
 .first-section{
     margin-top: 20px;
+    background-color: #F0FFF0;
+    
 }
 .sing-in{
     display: flex;
@@ -19,7 +21,7 @@
 .get-started{
     
     margin-top: 25px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     background: #21B573;
     color:white;
     border: none;
@@ -37,7 +39,8 @@
 }
 
 .second-section{
-    margin-top: 30px;
+    margin-top: 20px;
+    
 }
 .schedule{
    color: #21B573;
@@ -59,10 +62,7 @@
 .first-write{
     margin-top: 80px;
 }
-.first-section{
-    background-color: #F0FFF0;
-    height: 550px;
-}
+
 .box{
     width: 270px;
     height: 270px;
@@ -166,7 +166,7 @@
 
     background-color: #282531;
     color: white;
-    height: 400px;
+    
 }
 .ch{
     height: 60px;
@@ -177,6 +177,14 @@
 .first-write{
     padding: 20px;
 }
+.man-write{
+    padding: 20px;
+}
+.for-p{
+    margin-top: 60px;
+}
+
+
 
 
 
